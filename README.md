@@ -27,7 +27,9 @@ variables
    = : assign x=4
    += :add and assign eg. x+=2,(x=x+2)
    -= :subtracts and assign eg. x-=2,(x=x-2)
-
+   *= : multiples and assigns x*= 3 , ( x = x* 3)
+   /= : divides and assigns x/= 3 ,( x = x/3)
+   %= : modulus and assigns %=3 , ( x = x%3)
 
    7. Identity operators
 ## Loops 
