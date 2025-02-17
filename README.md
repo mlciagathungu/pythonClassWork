@@ -32,6 +32,8 @@ variables
    %= : modulus and assigns %=3 , ( x = x%3)
 
    7. Identity operators
+      Is : returns true if both comparisons refer to the same object.
+      Is not : returns true if they refer to different objects. 
 ## Loops 
 1. For loop
    Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
