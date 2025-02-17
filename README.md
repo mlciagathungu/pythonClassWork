@@ -41,7 +41,13 @@ variables
 2. Ternary operator/ conditional
    Shorthand way of writing an if, else statements
    Age= 18 
-Variableresult = ( What to be evaluated if true 
+Variableresult = ( What to be evaluated if true
+3. Nested if
+   An if statement with an if statement.
+   If condition:
+         Code to be executed.
+   If condition:
+         Code to be executed.
 ## Loops 
 1. For loop
    Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
