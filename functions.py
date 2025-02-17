@@ -17,15 +17,15 @@ print(text.replace("Hello", "John"))
 
 
 
-
+# interger function
 
 pos_num =28
 neg_num=-1
 float_num=1.0
 
-print(abs(neg_num))
-print(pow(pos_num,neg_num))
-print(divmod(pos_num,neg_num))
+print(abs(neg_num)) # returns  the positive version of the no
+print(pow(pos_num,neg_num))  
+print(divmod(pos_num,neg_num)) # (28 ,-1) quotient and remainder are returned as tuple 
 print(round((pos_num/neg_num),2))
 print(sum([pos_num,neg_num]))
 
