@@ -79,8 +79,8 @@ Block of code logic or series of code logic that can return a value or be void.F
 Def functionName ():
        Code logic For a function to be executed it has to be invoked/ called/ python has two groups of functions.
 # In built
-1. String function
-         text = " Hello world"
+1. String function:
+text = " Hello world"
       Print( len(text)):: returns the length of the string 
       Print(text.upper()):: into caps 
       Print(text.lower()):: into lower case letters 
@@ -88,7 +88,7 @@ Def functionName ():
       text
       Print ( text.split()):: deconstructs and returns a
        list version of the referred string.
-3. Integer function
+3. Integer function:
     pos_num= 10
     neg_ num =-1
     float_ num=10.5
