@@ -87,11 +87,12 @@ text = " Hello world"
       Print (text.replace(_old:"", _ new:""):: replaces                               
       text
       Print ( text.split()):: deconstructs and returns a
-       list version of the referred string.
+      list version of the referred string.
 3. Integer function:
     pos_num= 10
     neg_ num =-1
     float_ num=10.5
+   
     Print(abs( neg_ num)):: returns the positive version 
     of the no
     Print (pow(2,3)) ::2^3 =2*2*2= 8
@@ -105,7 +106,7 @@ text = " Hello world"
     Print ( min(nums)) returns the minimum number 
     Print( max ( nums)) returns the maximum number 
     nums.append(5)
-         Print( nums):: adds an item in the list
+    Print( nums):: adds an item in the list
     Print( nums.pop()):: removes the added item in 
     the list and returns it 
 
