@@ -33,6 +33,14 @@ variables
 ## Loops 
 1. For loop
    Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
+2. While loop
+While condition: 
+         Code to be repeated 
+              Stop
+## Loop control statements
+1. Break  :: Exists a loop earlier. 
+2. Continue :: skips and moves to the next.
+3. Pass :: It's simply a placeholder.
    
 ## FUNCTIONS 
 Block of code logic or series of code logic that can return a value or be void.Functions in python are defined using a def keyword 
