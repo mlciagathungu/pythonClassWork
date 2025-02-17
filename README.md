@@ -33,7 +33,11 @@ variables
 
    7. Identity operators
       Is : returns true if both comparisons refer to the same object.
-      Is not : returns true if they refer to different objects. 
+      Is not : returns true if they refer to different objects.
+## 3. Conditional statement 
+1. If ,elif and else statements
+   If condition:
+    Code to be executed 
 ## Loops 
 1. For loop
    Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
