@@ -30,7 +30,9 @@ variables
 
 
    7. Identity operators
-
+## Loops 
+1. For loop
+   Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
    
 ## FUNCTIONS 
 Block of code logic or series of code logic that can return a value or be void.Functions in python are defined using a def keyword 
