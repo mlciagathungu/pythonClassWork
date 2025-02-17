@@ -48,6 +48,12 @@ Variableresult = ( What to be evaluated if true
          Code to be executed.
    If condition:
          Code to be executed.
+4. Match-case
+   Matches a code logic as per selection.
+   Variable=""
+Match variable:
+           Case "selection": 
+                    Code execution 
 ## Loops 
 1. For loop
    Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
