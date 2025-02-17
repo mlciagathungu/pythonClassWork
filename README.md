@@ -45,5 +45,25 @@ Def functionName ():
       Print (text.replace(_old:"", _ new:""):: replaces                               
       text
       Print ( text.split()):: deconstructs and returns a
-       list version of the referred string. Integer function  
+       list version of the referred string.
+2. Integer function
+    pos_num= 10
+    neg_ num =-1
+    float_ num=10.5
+    Print(abs( neg_ num)):: returns the positive version 
+    of the no
+    Print (pow(2,3)) ::2^3 =2*2*2= 8
+    Print (divmod(pos_ num,neg_num)):: (10,-1) quotient
+    and remainder are returned as tuple 
+    Print (round (float_num,1))
+    Print( sum([ pos_num, float_num]))::10+ 10.5 List functions nums = [ 3,5,6,8]
+    Print ( lens( nums)):: returns the number of items in 
+    the list 
+    Print (list( reversed( nums))):: reverses the list 
+    Print ( min(nums)) returns the minimum number 
+    Print( max ( nums)) returns the maximum number 
+    nums.append(5)
+         Print( nums):: adds an item in the list
+    Print( nums.pop()):: removes the added item in 
+    the list and returns it 
 
