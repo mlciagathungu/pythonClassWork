@@ -41,6 +41,14 @@ While condition:
 1. Break  :: Exists a loop earlier. 
 2. Continue :: skips and moves to the next.
 3. Pass :: It's simply a placeholder.
+## TO CONVERT 
+1. Integer = int (value to be converted)
+2. Float  =float (value to be converted)
+3. String = str (value to be converted)
+4. Boolean = bool (value to be converted)
+5. List= list  (value to be converted)
+6. Tuple = tuple (value to be converted)
+7. Set= set (value to be converted)
    
 ## FUNCTIONS 
 Block of code logic or series of code logic that can return a value or be void.Functions in python are defined using a def keyword 
