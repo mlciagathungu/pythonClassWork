@@ -37,7 +37,11 @@ variables
 ## 3. Conditional statement 
 1. If ,elif and else statements
    If condition:
-    Code to be executed 
+    Code to be executed
+2. Ternary operator/ conditional
+   Shorthand way of writing an if, else statements
+   Age= 18 
+Variableresult = ( What to be evaluated if true 
 ## Loops 
 1. For loop
    Iterates (loop) over sequences \; list, dictionary, tuple, string and range.
